@@ -44,11 +44,11 @@ How I'm Using
     * To try it: open MacVim/build/Release/MacVim.app
 
 1. Clone repository
-  * `$ git clone git@github.com:briangershon/dotfiles.git`
+
 
 2. Create symlinks
-  * `$ ln -s ~/dotfiles/vimrc ~/.vimrc`
-  * `$ ln -s ~/dotfiles/vim ~/.vim`
+  * `$ ln -sf ~/dotfiles/vimrc ~/.vimrc`
+  * `$ ln -sf ~/dotfiles/vim ~/.vim`
 
 How to use
 ----------
