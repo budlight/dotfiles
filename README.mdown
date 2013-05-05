@@ -47,8 +47,8 @@ How I'm Using
 
 
 2. Create symlinks
-  * `$ ln -sf ~/dotfiles/vimrc ~/.vimrc`
-  * `$ ln -sf ~/dotfiles/vim ~/.vim`
+  * `ln -sf ~/dotfiles/vimrc ~/.vimrc`
+  * `ln -sf ~/dotfiles/vim ~/.vim`
 
 How to use
 ----------
